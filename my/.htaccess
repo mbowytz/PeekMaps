@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /peekmaps/my/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([0-9A-Za-z_!]+)/?$ /peekmaps/my/map.php?peekmap=$1 [L]
+</IfModule>
+
+

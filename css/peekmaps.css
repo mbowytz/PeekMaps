@@ -1,0 +1,121 @@
+    body {
+    background:url(../images/bk.gif) repeat-x scroll right top #252F38;
+    min-width:960px;
+    }
+
+    html, body {
+    font-family:Trebuchet MS,Helvetica,sans-serif;
+    font-size:14px;
+    margin:0;
+    padding:0;
+    color:#EFEFEF;
+    }    
+    
+  #logo {
+    background:  url(../images/logo.png) no-repeat top left;
+    overflow: auto; 
+	height:89px;
+  }
+  
+  #content-body {
+  	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;	
+	background-color:white;
+	color:black;
+	overflow: auto;
+  }
+    
+  #content-body p {
+	padding:10px;
+  }
+  
+  #login {
+	list-style:none;
+	margin-top:10px;
+	margin-bottom:10px;
+	overflow: auto;
+  }
+  
+  #top_button {
+	padding-top:30px;
+  }
+  
+  #top_button ul{
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+    background:#6D0000;
+	color:#fff;
+	text-shadow:0 -1px 1px rgba(0,0,0,0.5);
+    list-style:none outside none;
+    padding-top:5px;
+    padding-bottom:5px;
+    text-align:left;
+    font-size:1em;
+  }
+   #top_button ul li{
+    display:inline;	
+   }
+   
+   #top_button a{
+	 text-decoration: none; 
+   }   
+   #top_button  ul li a:link {color:#fff;
+	text-shadow:0 -1px 1px rgba(0,0,0,0.5);text-decoration: none}
+   #top_button  ul li a:visited {color:#fff;
+	text-shadow:0 -1px 1px rgba(0,0,0,0.5);text-decoration: none}
+   #top_button  ul li a:active {color:#fff;
+	text-shadow:0 -1px 1px rgba(0,0,0,0.5);text-decoration: none}
+   #top_button ul li a:hover {color:#fff;
+	text-shadow:0 -1px 1px rgba(0,0,0,0.5);text-decoration: underline; }
+   
+   #footer {
+    color:#fff;
+	text-shadow:0 -1px 1px rgba(0,0,0,0.5);
+    text-align:center;
+    border-top: 1px solid white;
+	margin-top:10px;
+    }
+   
+  h2 {
+    color:#fff;
+    text-shadow:0 1px 1px rgba(0,0,0,0.5);
+    text-size: 1.8em;
+  }
+  
+  .clearfix {
+	display:block;
+	}
+	
+.btn {
+	float: left;
+	clear: both;
+	background: url(../images/btn_left.png) no-repeat;
+	padding: 0 0 0 10px;
+	margin: 5px 0;
+}
+.btn a{
+	float: left;
+	height: 40px;
+	background: url(../images/btn_stretch.png) repeat-x left top;
+	line-height: 40px;
+	padding: 0 10px;
+	color: #fff;
+	font-size: 1em;
+	text-decoration: none;
+}
+.btn span {
+	background: url(../images/btn_right.png) no-repeat;
+	float: left;
+	width: 10px;
+	height: 40px;
+}
+.btn_addtocart { background-color: green; }
+.btn_red { background-color: red; }
+.btn_learnmore { background-color: orange; }
+.btn_try { background-color: #002c85; }
+.clear {
+	clear: both;
+}
+
