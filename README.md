@@ -8,6 +8,7 @@ It was a lot of work but was completely fun and I learned a LOT about how cell p
 About the visuals: I am not a great web designer but I thought that it looked OK.
 
 Mashable was kind enough to grab a screenshot years ago:
-![alt tag](https://raw.github.com/mbowytz/PeekMaps/peek-maps.jpg)
+
+![alt tag](https://github.com/mbowytz/PeekMaps/blob/master/peek-maps.jpg)
 
 http://mashable.com/2010/01/15/10-foursquare-apps/ (PeekMaps is the "bonus" at the bottom.
