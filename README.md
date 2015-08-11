@@ -11,4 +11,4 @@ Mashable was kind enough to grab a screenshot years ago:
 
 ![alt tag](https://github.com/mbowytz/PeekMaps/blob/master/peek-maps.jpg)
 
-http://mashable.com/2010/01/15/10-foursquare-apps/ (PeekMaps is the "bonus" at the bottom.
+http://mashable.com/2010/01/15/10-foursquare-apps/ (PeekMaps is the "bonus" at the bottom.)
